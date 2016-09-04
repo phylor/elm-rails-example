@@ -1,6 +1,7 @@
 GIT
-  remote: https://github.com/phylor/elm-rails.git
-  revision: 7e41b1909a9ede09306351dc8b4315203fe8d1b5
+  remote: https://github.com/mariochavez/elm-rails.git
+  revision: 797e19eca047dcdbca0665de7564107d17ed6bde
+  branch: rails5_with_sprockets
   specs:
     elm-rails (0.1.2)
       elm-compiler (~> 0.1.2)
